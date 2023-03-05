@@ -392,7 +392,7 @@ a:active {
 	position: relative;
 }
 
-.atlassian{
+.atlassian-logo{
 	display: flex;
 	justify-content: center;
 	/* width: 80%; */
@@ -405,7 +405,7 @@ a:active {
 	justify-content: center;
 }
 
-.fadetext{
+.fadetext-titlesponsor{
 	position: absolute;
 	width: 100%;
 	user-select: none;
@@ -413,7 +413,7 @@ a:active {
 	top: -90%;
 
 }
-.fadetext div{
+.fadetext-titlesponsor div{
 	opacity: 5%;
 	font-stretch: ultra-expanded;
 	font-size: 9vw;
